@@ -1,0 +1,1 @@
+<?php /**PATH D:\kecak_men\resources\views/frontpage/calendar.blade.php ENDPATH**/ ?>
